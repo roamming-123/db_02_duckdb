@@ -1,6 +1,7 @@
 # 데이터베이스 2026
 
 # Flet 기초
+<img width="1583" height="892" alt="image" src="https://github.com/user-attachments/assets/8abd57e6-ee14-430f-aa93-5ef19152a7a5" />
 
 https://nano5.notion.site/Flet-34fdaf211d428077aec0f5d2cff2c1a9?source=copy_link
 
