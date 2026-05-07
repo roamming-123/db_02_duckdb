@@ -1,2 +1,0 @@
-    alignment=ft.MainAxisAlignment.CENTER,
-            
